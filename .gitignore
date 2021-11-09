@@ -1,0 +1,14 @@
+# Xmake cache
+.xmake/
+build/
+.cache/*
+# MacOS Cache
+.DS_Store
+bazel-*
+go1.2*
+libs
+logs
+trace.json
+go1.12.5.linux-amd64.tar.gz
+
+
